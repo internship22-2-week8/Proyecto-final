@@ -201,4 +201,4 @@ Como desarrollador se le pide, realizar lo siguiente:
 - Desarrollo del Frontend (SPA con reactjs)
 - Implementar Redux en los estados que considere pertinente.
 - Agregar los modulos necesarios que no estan descritos en los requerimientos funcionales.
-# Proyecto-final
+
